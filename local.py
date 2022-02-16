@@ -7,7 +7,6 @@ backend through a View/ Read api.
 
 import streamlit as st
 import pandas as pd 
-import requests
 from datetime import datetime
 from dateutil import parser
 import numpy as np
