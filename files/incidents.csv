@@ -1,0 +1,404 @@
+caller_gender,purpose,intervention,county,region,status,incident_date_time
+Male,Psychosocial Support (PSS),On duty Counsellor,Meru,Central,Complete,2020-08-20 10:08:00+00:00
+Male,Membership & Volunteerism,Advised Accordingly,Kisii,West Kenya,Complete,2020-08-20 10:04:00+00:00
+Female,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-20 11:23:00+00:00
+Male,Food/ Financial Assistance,Advised Accordingly,Kajiado,Lower Eastern,Complete,2020-08-20 09:36:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-20 09:33:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-20 09:27:00+00:00
+Female,Livelihood,Ref to Chief,Nairobi,Lower Eastern,Complete,2020-08-20 09:18:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-20 09:08:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-20 09:05:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nakuru,South Rift,Complete,2020-08-20 08:47:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Bungoma,North Rift,Complete,2020-08-20 08:47:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-20 08:43:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-20 08:31:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Mombasa,Coast,Complete,2020-08-20 08:26:00+00:00
+Male,Membership & Volunteerism,Advised Accordingly,Nakuru,South Rift,Complete,2020-08-20 08:25:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kajiado,Lower Eastern,Complete,2020-08-20 08:17:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-20 08:13:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-20 08:15:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-20 08:12:00+00:00
+Male,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-20 08:11:00+00:00
+Female,Psychosocial Support (PSS),Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-20 08:03:00+00:00
+Female,General Inquiry,Ref to CC,Nairobi,Lower Eastern,Complete,2020-08-20 07:36:00+00:00
+Male,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-20 07:27:00+00:00
+Female,General Inquiry,Ref to Chief,Nairobi,Lower Eastern,Complete,2020-08-20 07:27:00+00:00
+Male,General Inquiry,Advised Accordingly,Kisumu,West Kenya,Complete,2020-08-20 07:23:00+00:00
+Male,General Inquiry,Advised Accordingly,Kakamega,West Kenya,Complete,2020-08-20 07:26:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-20 07:21:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-20 07:17:00+00:00
+Male,Livelihood,Advised Accordingly,Kajiado,Lower Eastern,Complete,2020-08-20 07:16:00+00:00
+Female,General Inquiry,Ref to Other,Nairobi,Lower Eastern,Complete,2020-08-20 06:59:00+00:00
+Male,General Inquiry,Advised Accordingly,Mombasa,Coast,Complete,2020-08-20 06:53:00+00:00
+Female,General Inquiry,Refer to Police,Mombasa,Coast,Complete,2020-08-20 06:50:00+00:00
+Female,General Inquiry,Advised Accordingly,Uasin Gishu,North Rift,Complete,2020-08-20 06:48:00+00:00
+Female,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-20 06:45:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Uasin Gishu,North Rift,Complete,2020-08-20 06:43:00+00:00
+Male,Livelihood,Ref to Chief,Nairobi,Lower Eastern,Complete,2020-08-20 06:42:00+00:00
+Female,General Inquiry,Advised Accordingly,Kakamega,West Kenya,Complete,2020-08-20 06:41:00+00:00
+Female,General Inquiry,Advised Accordingly,Nyeri,Central,Complete,2020-08-20 06:38:00+00:00
+Male,General Inquiry,Advised Accordingly,Uasin Gishu,North Rift,Complete,2020-08-20 06:36:00+00:00
+Male,General Inquiry,Advised Accordingly,Kilifi,Coast,Complete,2020-08-20 06:28:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kisii,West Kenya,Complete,2020-08-19 22:14:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-19 21:39:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Pending,2020-08-19 20:42:00+00:00
+Female,Livelihood,Advised Accordingly,Bomet,South Rift,Pending,2020-08-19 19:41:00+00:00
+Male,Livelihood,Advised Accordingly,Kiambu,Central,Pending,2020-08-19 19:08:00+00:00
+Male,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Pending,2020-08-19 19:04:00+00:00
+Male,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Pending,2020-08-19 18:38:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Pending,2020-08-19 18:30:00+00:00
+Male,General Inquiry,PFA,Machakos,Lower Eastern,Pending,2020-08-19 18:20:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Siaya,West Kenya,Pending,2020-08-19 18:16:00+00:00
+Female,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Pending,2020-08-19 18:17:00+00:00
+Male,Food/ Financial Assistance,Advised Accordingly,Nairobi,Lower Eastern,Pending,2020-08-19 18:12:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Pending,2020-08-19 18:07:00+00:00
+Male,Livelihood,PFA,Nakuru,South Rift,Pending,2020-08-19 17:34:00+00:00
+Female,Reporting Incident,PFA,Nakuru,South Rift,Pending,2020-08-19 17:32:00+00:00
+Female,Food/ Financial Assistance,Ref to Other,Nairobi,Lower Eastern,Complete,2020-08-19 17:25:00+00:00
+Male,Psychosocial Support (PSS),PFA,Nairobi,Lower Eastern,Complete,2020-08-19 17:20:00+00:00
+Male,General Inquiry,Refer to Police,Embu,Central,Complete,2020-08-19 16:50:00+00:00
+Female,Livelihood,Advised Accordingly,Kakamega,West Kenya,Complete,2020-08-19 15:46:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-19 15:40:00+00:00
+Male,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-19 15:25:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kajiado,Lower Eastern,Complete,2020-08-19 15:16:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-19 14:38:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kajiado,Lower Eastern,Complete,2020-08-19 14:29:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-19 13:45:00+00:00
+Female,General Inquiry,Advised Accordingly,Narok,South Rift,Complete,2020-08-19 13:29:00+00:00
+Female,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-19 13:07:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Machakos,Lower Eastern,Complete,2020-08-19 13:03:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nyeri,Central,Complete,2020-08-19 12:43:00+00:00
+Male,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-19 12:40:00+00:00
+Male,General Inquiry,Advised Accordingly,Kiambu,Central,Complete,2020-08-19 12:16:00+00:00
+Female,General Inquiry,Advised Accordingly,Mombasa,Coast,Complete,2020-08-19 11:59:00+00:00
+Female,Psychosocial Support (PSS),PFA,Nakuru,South Rift,Complete,2020-08-19 11:40:00+00:00
+Female,Food/ Financial Assistance,Ref to Chief,Nairobi,Lower Eastern,Complete,2020-08-19 11:35:00+00:00
+Female,General Inquiry,Advised Accordingly,Machakos,Lower Eastern,Complete,2020-08-19 11:14:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Uasin Gishu,North Rift,Complete,2020-08-19 10:45:00+00:00
+Female,General Inquiry,Not declared,Kiambu,Central,Complete,2020-08-19 10:28:00+00:00
+Male,Covid-19,Advised Accordingly,Trans Nzoia,North Rift,Complete,2020-08-19 10:30:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-19 10:14:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-19 09:49:00+00:00
+Female,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-19 09:29:00+00:00
+Male,Livelihood,Advised Accordingly,Baringo,South Rift,Complete,2020-08-19 09:25:00+00:00
+Female,Complaints & Feedback,Ref to C&F Hotline,Nairobi,Lower Eastern,Complete,2020-08-19 09:09:00+00:00
+Female,General Inquiry,Advised Accordingly,Isiolo,Upper Eastern,Complete,2020-08-19 09:01:00+00:00
+Female,Psychosocial Support (PSS),Advised Accordingly,Kiambu,Central,Complete,2020-08-19 08:45:00+00:00
+Male,Psychosocial Support (PSS),Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-19 08:43:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kajiado,Lower Eastern,Complete,2020-08-19 08:24:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Machakos,Lower Eastern,Complete,2020-08-19 08:19:00+00:00
+Male,Reporting Incident,Ref to Other,Embu,Central,Complete,2020-08-19 08:10:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-19 08:01:00+00:00
+Male,General Inquiry,Advised Accordingly,Kisii,West Kenya,Complete,2020-08-19 07:56:00+00:00
+Male,Complaints & Feedback,Ref to C&F Hotline,Nairobi,Lower Eastern,Complete,2020-08-19 07:40:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Bungoma,North Rift,Complete,2020-08-19 07:39:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Nyamira,West Kenya,Complete,2020-08-19 07:37:00+00:00
+Female,Food/ Financial Assistance,On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-19 07:32:00+00:00
+Female,Food/ Financial Assistance,On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-19 07:18:00+00:00
+Female,General Inquiry,Advised Accordingly,Nakuru,South Rift,Complete,2020-08-19 07:17:00+00:00
+Female,Covid-19,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-19 07:18:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Uasin Gishu,North Rift,Complete,2020-08-19 06:54:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nakuru,South Rift,Complete,2020-08-19 06:52:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Mombasa,Coast,Complete,2020-08-19 06:43:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-19 06:31:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Machakos,Lower Eastern,Complete,2020-08-19 06:21:00+00:00
+Female,Reporting Incident,Ref to Other,Kajiado,Lower Eastern,Complete,2020-08-19 06:19:00+00:00
+Male,Food/ Financial Assistance,On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-19 05:55:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nakuru,South Rift,Complete,2020-08-18 21:00:00+00:00
+Male,General Inquiry,Advised Accordingly,Nakuru,South Rift,Complete,2020-08-19 05:00:00+00:00
+Female,Psychosocial Support (PSS),Advised Accordingly,Uasin Gishu,North Rift,Complete,2020-08-19 04:58:00+00:00
+Male,Psychosocial Support (PSS),Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-19 04:52:00+00:00
+Male,Psychosocial Support (PSS),Advised Accordingly,Kisii,West Kenya,Complete,2020-08-19 04:51:00+00:00
+Female,Complaints & Feedback,Ref to CC,Nairobi,Lower Eastern,Complete,2020-08-19 03:53:00+00:00
+Female,Seeking Ambulance Services,Ref to Eplus,Bungoma,North Rift,Complete,2020-08-18 21:54:00+00:00
+Male,Membership & Volunteerism,Advised Accordingly,Mombasa,Coast,Complete,2020-08-18 21:33:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nakuru,South Rift,Complete,2020-08-18 20:40:00+00:00
+Male,Covid-19,Advised Accordingly,Kajiado,Lower Eastern,Complete,2020-08-18 20:11:00+00:00
+Male,Seeking Ambulance Services,Ref to Eplus,Nakuru,South Rift,Complete,2020-08-18 19:57:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 19:40:00+00:00
+Male,Psychosocial Support (PSS),PFA,Nairobi,Lower Eastern,Complete,2020-08-18 18:55:00+00:00
+Female,Psychosocial Support (PSS),PFA,Nyeri,Central,Complete,2020-08-18 18:45:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nakuru,South Rift,Complete,2020-08-18 18:33:00+00:00
+Male,Seeking Ambulance Services,Ref to Eplus,Nairobi,Lower Eastern,Complete,2020-08-18 18:07:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-18 17:55:00+00:00
+Male,General Inquiry,Advised Accordingly,Kilifi,Coast,Complete,2020-08-18 17:52:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 16:57:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-18 17:02:00+00:00
+Female,General Inquiry,Advised Accordingly,Nakuru,South Rift,Complete,2020-08-18 16:49:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 16:58:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kajiado,Lower Eastern,Complete,2020-08-18 16:20:00+00:00
+Male,Livelihood,PFA,Uasin Gishu,North Rift,Complete,2020-08-18 16:19:00+00:00
+Male,Complaints & Feedback,Ref to CC,Kakamega,West Kenya,Complete,2020-08-18 15:48:00+00:00
+Female,Livelihood,Ref to Other,Nairobi,Lower Eastern,Complete,2020-08-18 15:37:00+00:00
+Female,Food/ Financial Assistance,Ref to Other,Nairobi,Lower Eastern,Complete,2020-08-18 15:22:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-18 15:22:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nakuru,South Rift,Complete,2020-08-18 14:39:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 14:08:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kisumu,West Kenya,Complete,2020-08-18 14:08:00+00:00
+Male,Food/ Financial Assistance,Advised Accordingly,Siaya,West Kenya,Complete,2020-08-18 14:08:00+00:00
+Male,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-18 13:49:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 13:35:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 13:22:00+00:00
+Female,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-18 13:19:00+00:00
+Male,Covid-19,Ref to Other,Kisii,West Kenya,Complete,2020-08-18 13:14:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Nakuru,South Rift,Complete,2020-08-18 13:14:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 13:01:00+00:00
+Male,Food/ Financial Assistance,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-18 12:56:00+00:00
+Female,Complaints & Feedback,Advised Accordingly,Nyeri,Central,Complete,2020-08-18 12:50:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-18 12:39:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Meru,Central,Complete,2020-08-18 12:07:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 11:51:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-18 11:14:00+00:00
+Male,Complaints & Feedback,Ref to C&F Hotline,Nairobi,Lower Eastern,Complete,2020-08-18 11:09:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Uasin Gishu,North Rift,Complete,2020-08-18 10:39:00+00:00
+Male,General Inquiry,Advised Accordingly,Bungoma,North Rift,Complete,2020-08-18 10:36:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 10:20:00+00:00
+Male,General Inquiry,Advised Accordingly,Siaya,West Kenya,Complete,2020-08-18 10:11:00+00:00
+Male,General Inquiry,On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 09:51:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 09:48:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 09:45:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-18 09:36:00+00:00
+Female,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-18 09:34:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-18 09:36:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 09:33:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-18 09:31:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 09:17:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-18 09:17:00+00:00
+Male,Food/ Financial Assistance,Ref to Other,Mombasa,Coast,Complete,2020-08-18 09:01:00+00:00
+Female,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-18 08:38:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Pending,2020-08-18 08:25:00+00:00
+Female,Livelihood,Ref to Other,Nairobi,Lower Eastern,Pending,2020-08-18 08:23:00+00:00
+Female,General Inquiry,Advised Accordingly,Mandera,North Eastern,Pending,2020-08-18 08:08:00+00:00
+Male,Food/ Financial Assistance,Ref to Other,Mombasa,Coast,Pending,2020-08-18 07:56:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Nairobi,Lower Eastern,Pending,2020-08-18 07:50:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Nairobi,Lower Eastern,Pending,2020-08-18 07:49:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Pending,2020-08-18 07:48:00+00:00
+Female,Livelihood,Not declared,Nairobi,Lower Eastern,Pending,2020-08-18 07:42:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Pending,2020-08-18 07:29:00+00:00
+Male,General Inquiry,Advised Accordingly,Nakuru,South Rift,Pending,2020-08-18 07:18:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Migori,West Kenya,Pending,2020-08-18 07:13:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Mombasa,Coast,Pending,2020-08-18 07:03:00+00:00
+Male,Complaints & Feedback,Ref to Other,Kwale,Coast,Pending,2020-08-18 07:00:00+00:00
+Female,Membership & Volunteerism,Ref to Other,Nairobi,Lower Eastern,Complete,2020-08-18 06:43:00+00:00
+Male,Complaints & Feedback,Advised Accordingly,Lamu,Coast,Complete,2020-08-18 06:30:00+00:00
+Male,Complaints & Feedback,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-18 06:24:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-18 06:21:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kisumu,West Kenya,Complete,2020-08-18 06:16:00+00:00
+Male,General Inquiry,Advised Accordingly,Embu,Central,Complete,2020-08-18 06:09:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 06:03:00+00:00
+Male,General Inquiry,Advised Accordingly,Laikipia,Central,Complete,2020-08-18 06:01:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Vihiga,West Kenya,Complete,2020-08-18 05:57:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-18 05:43:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-18 03:58:00+00:00
+Male,Psychosocial Support (PSS),PFA,Kiambu,Central,Complete,2020-08-18 00:32:00+00:00
+Male,Food/ Financial Assistance,Advised Accordingly,Mombasa,Coast,Complete,2020-08-17 22:18:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Uasin Gishu,North Rift,Complete,2020-08-17 20:51:00+00:00
+Male,Covid-19,Ref to 1196,Vihiga,West Kenya,Complete,2020-08-17 20:04:00+00:00
+Male,Complaints & Feedback,Ref to C&F Hotline,Nairobi,Lower Eastern,Complete,2020-08-17 18:58:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Meru,Central,Complete,2020-08-17 18:44:00+00:00
+Female,General Inquiry,Advised Accordingly,Machakos,Lower Eastern,Complete,2020-08-17 18:41:00+00:00
+Male,General Inquiry,Advised Accordingly,Kirinyaga,Central,Complete,2020-08-17 18:31:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-17 18:08:00+00:00
+Female,Livelihood,Advised Accordingly,Vihiga,West Kenya,Complete,2020-08-17 18:08:00+00:00
+Male,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-17 17:03:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 16:42:00+00:00
+Female,Food/ Financial Assistance,Ref to Other,Kisumu,West Kenya,Complete,2020-08-17 16:18:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Embu,Central,Complete,2020-08-17 16:06:00+00:00
+Male,Livelihood,Advised Accordingly,Embu,Central,Complete,2020-08-17 15:58:00+00:00
+Female,Livelihood,Ref to Other,Nakuru,South Rift,Complete,2020-08-17 15:54:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 15:52:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 15:28:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Siaya,West Kenya,Complete,2020-08-17 15:23:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-17 15:19:00+00:00
+Female,Membership & Volunteerism,Advised Accordingly,Siaya,West Kenya,Complete,2020-08-17 15:03:00+00:00
+Male,General Inquiry,Advised Accordingly,Kitui,Lower Eastern,Complete,2020-08-17 14:35:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Murang'a,Central,Complete,2020-08-17 14:27:00+00:00
+Female,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-17 14:23:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 13:55:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nakuru,South Rift,Complete,2020-08-17 13:21:00+00:00
+Female,Psychosocial Support (PSS),Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-17 13:06:00+00:00
+Female,General Inquiry,Advised Accordingly,Uasin Gishu,North Rift,Complete,2020-08-17 13:04:00+00:00
+Female,General Inquiry,Advised Accordingly,Kitui,Lower Eastern,Complete,2020-08-17 13:01:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Murang'a,Central,Complete,2020-08-17 12:57:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 12:45:00+00:00
+Male,General Inquiry,Advised Accordingly,Kajiado,Lower Eastern,Complete,2020-08-17 12:23:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 12:12:00+00:00
+Female,General Inquiry,Advised Accordingly,Kiambu,Central,Complete,2020-08-17 12:03:00+00:00
+Male,General Inquiry,Advised Accordingly,Kericho,South Rift,Complete,2020-08-17 11:50:00+00:00
+Female,General Inquiry,Advised Accordingly,Siaya,West Kenya,Complete,2020-08-17 11:50:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 11:40:00+00:00
+Female,Livelihood,Advised Accordingly,Mombasa,Coast,Complete,2020-08-17 11:34:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Trans Nzoia,North Rift,Complete,2020-08-17 11:28:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 11:21:00+00:00
+Female,Seeking Ambulance Services,Ref to Eplus,Turkana,North Rift,Complete,2020-08-17 11:15:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 11:13:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Mombasa,Coast,Complete,2020-08-17 11:12:00+00:00
+Male,Complaints & Feedback,Ref to C&F Hotline,Nairobi,Lower Eastern,Complete,2020-08-17 11:21:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 10:43:00+00:00
+Female,Complaints & Feedback,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-17 10:06:00+00:00
+Female,General Inquiry,Ref to Other,Tharaka Nithi,Central,Complete,2020-08-17 10:03:00+00:00
+Male,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-17 09:50:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 09:47:00+00:00
+Male,General Inquiry,Advised Accordingly,Nyandarua,South Rift,Complete,2020-08-17 09:42:00+00:00
+Female,General Inquiry,On duty Counsellor,Makueni,Lower Eastern,Complete,2020-08-17 09:37:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 09:22:00+00:00
+Male,Livelihood,Advised Accordingly,Mombasa,Coast,Complete,2020-08-17 09:19:00+00:00
+Female,Livelihood,On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 09:13:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-17 09:11:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-17 09:03:00+00:00
+Female,General Inquiry,Advised Accordingly,Nakuru,South Rift,Complete,2020-08-17 09:00:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-17 08:59:00+00:00
+Male,Reporting Incident,Ref to Chief,Murang'a,Central,Complete,2020-08-17 08:58:00+00:00
+Female,General Inquiry,Advised Accordingly,Mombasa,Coast,Complete,2020-08-17 08:57:00+00:00
+Male,Psychosocial Support (PSS),Advised Accordingly,Siaya,West Kenya,Complete,2020-08-17 08:54:00+00:00
+Female,Psychosocial Support (PSS),Advised Accordingly,Laikipia,Central,Complete,2020-08-17 08:46:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Uasin Gishu,North Rift,Complete,2020-08-17 08:52:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-17 08:39:00+00:00
+Female,Complaints & Feedback,Ref to C&F Hotline,Nairobi,Lower Eastern,Complete,2020-08-17 08:44:00+00:00
+Female,General Inquiry,Advised Accordingly,Uasin Gishu,North Rift,Complete,2020-08-17 08:33:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kericho,South Rift,Complete,2020-08-17 08:30:00+00:00
+Female,General Inquiry,Advised Accordingly,Marsabit,Upper Eastern,Complete,2020-08-17 08:21:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nyeri,Central,Complete,2020-08-17 08:09:00+00:00
+Female,Membership & Volunteerism,Ref to Other,Kajiado,Lower Eastern,Complete,2020-08-17 08:04:00+00:00
+Female,General Inquiry,Advised Accordingly,Kiambu,Central,Complete,2020-08-17 07:59:00+00:00
+Female,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-17 07:49:00+00:00
+Male,Complaints & Feedback,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-17 07:43:00+00:00
+Male,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-17 07:32:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Machakos,Lower Eastern,Complete,2020-08-17 07:21:00+00:00
+Female,Food/ Financial Assistance,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-17 07:12:00+00:00
+Female,Psychosocial Support (PSS),Ref to Chief,Taita Taveta,Coast,Pending,2020-08-17 07:09:00+00:00
+Male,Complaints & Feedback,On duty Counsellor,Nairobi,Lower Eastern,Pending,2020-08-17 06:58:00+00:00
+Female,Covid-19,Advised Accordingly,Nairobi,Lower Eastern,Pending,2020-08-17 06:55:00+00:00
+Male,General Inquiry,Advised Accordingly,Kisii,West Kenya,Pending,2020-08-17 06:50:00+00:00
+Male,General Inquiry,Advised Accordingly,Embu,Central,Pending,2020-08-17 06:44:00+00:00
+Female,General Inquiry,Advised Accordingly,Kisumu,West Kenya,Pending,2020-08-17 06:37:00+00:00
+Female,Psychosocial Support (PSS),PFA,Nairobi,Lower Eastern,Pending,2020-08-17 06:33:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Pending,2020-08-17 06:06:00+00:00
+Male,General Inquiry,Advised Accordingly,Migori,West Kenya,Pending,2020-08-17 06:00:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nakuru,South Rift,Pending,2020-08-17 05:59:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Pending,2020-08-17 05:58:00+00:00
+Female,General Inquiry,Advised Accordingly,Siaya,West Kenya,Complete,2020-08-17 05:57:00+00:00
+Female,Seeking Ambulance Services,Ref to Eplus,Nairobi,Lower Eastern,Complete,2020-08-17 05:56:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-17 05:24:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-17 05:15:00+00:00
+Male,General Inquiry,Advised Accordingly,Kisii,West Kenya,Complete,2020-08-16 21:24:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kisumu,West Kenya,Complete,2020-08-16 20:54:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-16 20:31:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-16 20:18:00+00:00
+Male,General Inquiry,Advised Accordingly,Nandi,North Rift,Complete,2020-08-16 19:58:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-16 19:44:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kajiado,Lower Eastern,Complete,2020-08-16 19:42:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Laikipia,Central,Complete,2020-08-16 19:40:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nakuru,South Rift,Complete,2020-08-16 18:29:00+00:00
+Male,General Inquiry,Advised Accordingly,Kitui,Lower Eastern,Complete,2020-08-16 18:07:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kisii,West Kenya,Complete,2020-08-16 18:02:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kisii,West Kenya,Complete,2020-08-16 17:52:00+00:00
+Male,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-16 17:42:00+00:00
+Male,Seeking Ambulance Services,Ref to Eplus,Isiolo,Upper Eastern,Complete,2020-08-16 17:30:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Meru,Central,Complete,2020-08-16 16:42:00+00:00
+Male,General Inquiry,Advised Accordingly,Kakamega,West Kenya,Complete,2020-08-16 16:39:00+00:00
+Male,General Inquiry,Advised Accordingly,Murang'a,Central,Complete,2020-08-16 16:29:00+00:00
+Female,Psychosocial Support (PSS),PFA by Desk Officer,Nairobi,Lower Eastern,Complete,2020-08-16 16:20:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-16 16:01:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Siaya,West Kenya,Complete,2020-08-16 15:34:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-16 15:07:00+00:00
+Female,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-16 14:07:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-16 13:49:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nyeri,Central,Complete,2020-08-16 13:44:00+00:00
+Male,Livelihood,Advised Accordingly,Uasin Gishu,North Rift,Complete,2020-08-16 13:28:00+00:00
+Female,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-16 13:36:00+00:00
+Male,Livelihood,Ref to Chief,Kisumu,West Kenya,Complete,2020-08-16 13:21:00+00:00
+Male,General Inquiry,Advised Accordingly,Nakuru,South Rift,Complete,2020-08-16 13:14:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Uasin Gishu,North Rift,Complete,2020-08-16 12:52:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-16 12:51:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kisii,West Kenya,Complete,2020-08-16 12:37:00+00:00
+Male,General Inquiry,Advised Accordingly,Siaya,West Kenya,Complete,2020-08-16 12:23:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-16 10:53:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kitui,Lower Eastern,Complete,2020-08-16 10:50:00+00:00
+Female,General Inquiry,Advised Accordingly,Uasin Gishu,North Rift,Complete,2020-08-16 10:27:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-16 10:25:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-16 09:50:00+00:00
+Male,Livelihood,Advised Accordingly,Migori,West Kenya,Complete,2020-08-16 09:37:00+00:00
+Female,General Inquiry,Advised Accordingly,Kitui,Lower Eastern,Complete,2020-08-16 09:34:00+00:00
+Male,General Inquiry,Advised Accordingly,Kisii,West Kenya,Complete,2020-08-16 09:31:00+00:00
+Female,General Inquiry,Advised Accordingly,Machakos,Lower Eastern,Pending,2020-08-16 09:17:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Murang'a,Central,Pending,2020-08-16 09:13:00+00:00
+Male,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Pending,2020-08-16 08:42:00+00:00
+Female,Reporting Incident,Ref to C&F Hotline,Nairobi,Lower Eastern,Pending,2020-08-16 08:34:00+00:00
+Male,Livelihood,Advised Accordingly,Wajir,North Eastern,Pending,2020-08-16 07:53:00+00:00
+Male,General Inquiry,Advised Accordingly,Trans Nzoia,North Rift,Pending,2020-08-16 07:44:00+00:00
+Male,Livelihood,Ref to Respective Agency,Wajir,North Eastern,Pending,2020-08-16 07:41:00+00:00
+Male,Livelihood,Advised Accordingly,Trans Nzoia,North Rift,Pending,2020-08-16 07:39:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Pending,2020-08-16 07:34:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Pending,2020-08-16 07:29:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Pending,2020-08-16 07:27:00+00:00
+Female,Livelihood,Ref to Respective Agency,Nairobi,Lower Eastern,Pending,2020-08-16 05:57:00+00:00
+Male,Livelihood,Advised Accordingly,Siaya,West Kenya,Complete,2020-08-16 05:46:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kilifi,Coast,Complete,2020-08-15 14:19:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-15 14:13:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Meru,Central,Complete,2020-08-15 14:06:00+00:00
+Male,General Inquiry,Advised Accordingly,Uasin Gishu,North Rift,Complete,2020-08-15 13:57:00+00:00
+Male,Livelihood,Advised Accordingly,Marsabit,Upper Eastern,Complete,2020-08-15 13:58:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-15 13:48:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nakuru,South Rift,Complete,2020-08-15 13:46:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-15 13:44:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Tana River,Coast,Complete,2020-08-15 13:43:00+00:00
+Male,Membership & Volunteerism,Ref to Other,Kiambu,Central,Complete,2020-08-15 12:09:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Machakos,Lower Eastern,Complete,2020-08-15 12:05:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Uasin Gishu,North Rift,Complete,2020-08-15 12:03:00+00:00
+Male,General Inquiry,Advised Accordingly,Nyandarua,South Rift,Complete,2020-08-15 12:00:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kakamega,West Kenya,Complete,2020-08-15 11:27:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Baringo,South Rift,Complete,2020-08-15 11:21:00+00:00
+Female,Reporting Incident,Advised Accordingly,Turkana,North Rift,Complete,2020-08-15 11:14:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-15 11:01:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kakamega,West Kenya,Complete,2020-08-15 10:38:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-15 10:30:00+00:00
+Female,General Inquiry,Advised Accordingly,Machakos,Lower Eastern,Complete,2020-08-15 09:59:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-15 09:40:00+00:00
+Female,General Inquiry,Advised Accordingly,Kisumu,West Kenya,Complete,2020-08-15 09:37:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Busia,West Kenya,Complete,2020-08-15 09:30:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-15 09:04:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kisii,West Kenya,Complete,2020-08-15 08:29:00+00:00
+Female,Psychosocial Support (PSS),Ref to CC,Nairobi,Lower Eastern,Complete,2020-08-15 08:22:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Uasin Gishu,North Rift,Complete,2020-08-15 07:44:00+00:00
+Female,Psychosocial Support (PSS),Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-15 07:38:00+00:00
+Male,Psychosocial Support (PSS),Advised Accordingly,Kericho,South Rift,Complete,2020-08-15 07:16:00+00:00
+Male,Psychosocial Support (PSS),Advised Accordingly,Migori,West Kenya,Complete,2020-08-15 07:06:00+00:00
+Male,Psychosocial Support (PSS),Advised Accordingly,Mombasa,Coast,Complete,2020-08-15 06:56:00+00:00
+Male,Psychosocial Support (PSS),Advised Accordingly,Mombasa,Coast,Complete,2020-08-15 06:52:00+00:00
+Male,Psychosocial Support (PSS),Advised Accordingly,Uasin Gishu,North Rift,Complete,2020-08-15 06:39:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nyeri,Central,Complete,2020-08-15 06:35:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-15 06:42:00+00:00
+Male,Psychosocial Support (PSS),Advised Accordingly,Nakuru,South Rift,Complete,2020-08-15 06:30:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Mombasa,Coast,Complete,2020-08-15 06:28:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kwale,Coast,Complete,2020-08-15 05:49:00+00:00
+Female,Psychosocial Support (PSS),Advised Accordingly,Machakos,Lower Eastern,Complete,2020-08-15 05:46:00+00:00
+Male,Psychosocial Support (PSS),Ref to Eplus,Nairobi,Lower Eastern,Complete,2020-08-15 16:45:00+00:00
+Male,Psychosocial Support (PSS),Ref to CC,Mombasa,Coast,Complete,2020-08-15 16:29:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Murang'a,Central,Complete,2020-08-15 16:20:00+00:00
+Female,Psychosocial Support (PSS),Refer to Police,Taita Taveta,Coast,Complete,2020-08-15 16:16:00+00:00
+Female,Psychosocial Support (PSS),Advised Accordingly,Kitui,Lower Eastern,Complete,2020-08-15 16:15:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kiambu,Central,Complete,2020-08-15 16:14:00+00:00
+Female,Psychosocial Support (PSS),Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-15 16:07:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Uasin Gishu,North Rift,Complete,2020-08-15 16:01:00+00:00
+Female,Psychosocial Support (PSS),Advised Accordingly,Marsabit,Upper Eastern,Complete,2020-08-15 16:01:00+00:00
+Female,Psychosocial Support (PSS),Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-15 16:00:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Uasin Gishu,North Rift,Complete,2020-08-15 20:25:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kirinyaga,Central,Complete,2020-08-15 20:21:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Nairobi,Lower Eastern,Complete,2020-08-15 18:57:00+00:00
+Female,Livelihood,Advised Accordingly,Uasin Gishu,North Rift,Complete,2020-08-15 18:22:00+00:00
+Male,General Inquiry,Advised Accordingly,Kiambu,Central,Complete,2020-08-15 18:29:00+00:00
+Female,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-15 18:06:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kitui,Lower Eastern,Complete,2020-08-15 17:40:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Kirinyaga,Central,Complete,2020-08-15 17:36:00+00:00
+Male,General Inquiry,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-15 17:28:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Nyeri,Central,Complete,2020-08-15 12:37:00+00:00
+Female,Psychosocial Support (PSS),Advised Accordingly,Kiambu,Central,Complete,2020-08-15 11:37:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Mombasa,Coast,Complete,2020-08-15 10:37:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-15 09:37:00+00:00
+Female,Livelihood,On duty Counsellor,Isiolo,Upper Eastern,Complete,2020-08-15 08:37:00+00:00
+Female,Livelihood,Advised Accordingly,Nairobi,Lower Eastern,Complete,2020-08-15 07:37:00+00:00
+Female,Livelihood,Advised Accordingly,Samburu,Upper Eastern,Complete,2020-08-15 06:37:00+00:00
+Male,Psychosocial Support (PSS),On duty Counsellor,Tana River,Coast,Complete,2020-08-15 05:37:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Kisii,West Kenya,Pending,2020-08-15 04:37:00+00:00
+Female,Psychosocial Support (PSS),On duty Counsellor,Uasin Gishu,North Rift,Complete,2020-08-15 03:37:00+00:00
