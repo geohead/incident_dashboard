@@ -224,7 +224,6 @@ def bar_graph (d, x, y,t,c=None,b=None):
         'paper_bgcolor': 'rgba(248, 248, 248, 1)',
         })
     fig.update_traces (textfont_size=12, textangle=0, textposition="inside", cliponaxis=False)
-    fig.show()
     st.plotly_chart(fig)
 
 def group_bar_graph (d, x, y,t,c=None,b=None):
@@ -234,7 +233,6 @@ def group_bar_graph (d, x, y,t,c=None,b=None):
         'paper_bgcolor': 'rgba(248, 248, 248, 1)',
         })
     fig.update_traces (textfont_size=12, textangle=0, textposition="inside", cliponaxis=False)
-    fig.show()
     st.plotly_chart(fig)
 
 
@@ -246,7 +244,6 @@ def pie_chart (d, v, n,t):
         'paper_bgcolor': 'rgba(248, 248, 248, 1)',
         })
     fig.update_traces ( textposition="inside")
-    fig.show()
     st.plotly_chart(fig)
 
 
